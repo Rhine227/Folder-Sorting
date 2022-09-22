@@ -1,0 +1,24 @@
+{
+    "Images": [
+        ".jpg",
+        ".png",
+        ".jpeg"
+    ],
+    "Archives": [
+        ".rar",
+        ".zip"
+    ],
+    "Videos": [
+        ".mp4"
+    ],
+    "Audio": [
+        ".mp3",
+        ".wav"
+    ],
+    "Drivers": [
+        ".msi"
+    ],
+    "Installers": [
+        ".exe"
+    ]
+}
